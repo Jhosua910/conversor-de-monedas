@@ -1,33 +1,38 @@
-Currency Converter
+# **Currency Converter**  
+🚀 *Un conversor de monedas simple y efectivo en Java.*
 
-🚀 Un conversor de monedas simple y efectivo en Java.
-Descripción
-
-Currency Converter es una aplicación desarrollada en Java que permite convertir rápidamente entre las siguientes monedas:
-
-    Peso Argentino ↔ Dólar (USD)
-    Peso Colombiano ↔ Dólar (USD)
-    Real Brasileño ↔ Dólar (USD)
+## **Descripción**  
+Currency Converter es una aplicación desarrollada en Java que permite convertir rápidamente entre las siguientes monedas:  
+- **Peso Argentino ↔ Dólar (USD)**  
+- **Peso Colombiano ↔ Dólar (USD)**  
+- **Real Brasileño ↔ Dólar (USD)**  
 
 Este proyecto utiliza una API para obtener tasas de cambio en tiempo real, garantizando precisión y actualización constante.
-Características
 
-    Conversión entre 6 pares de divisas.
-    Interfaz simple y fácil de usar.
-    Precisión gracias a tasas de cambio actualizadas dinámicamente.
-    Escalable para incluir más monedas en el futuro.
+---
 
-Capturas de Pantalla
+## **Características**  
+- ✅ Conversión entre 6 pares de divisas.  
+- ✅ Interfaz simple y fácil de usar.  
+- ✅ Precisión gracias a tasas de cambio actualizadas dinámicamente.  
+- ✅ Escalable para incluir más monedas en el futuro.
 
-Puedes agregar aquí una imagen de la interfaz o un GIF mostrando la funcionalidad.
-Instalación y Uso
-1. Requisitos Previos
+---
 
-    Java 8 o superior instalado.
-    Maven para la gestión de dependencias.
+## **Capturas de Pantalla**  
+<!-- Agrega aquí una imagen de la interfaz o un GIF mostrando la funcionalidad. -->
+![Ejemplo de uso](ruta/a/tu/imagen.png)
 
-2. Clonar el Repositorio
+---
 
+## **Instalación y Uso**
+
+### **1. Requisitos Previos**
+- ☕ **Java 8 o superior instalado.**  
+- 🛠️ **Maven para la gestión de dependencias.**
+
+### **2. Clonar el Repositorio**
+```bash
 git clone https://github.com/tu_usuario/currency-converter.git
 cd currency-converter
 
@@ -44,26 +49,34 @@ cd currency-converter
 
 Tecnologías Usadas
 
-    Java 11
-    Spring Boot
-    API de tasas de cambio (RESTful)
-    GSON para procesar datos JSON.
+    🖥️ Java 11
+    🔧 Spring Boot
+    🌐 API de tasas de cambio (RESTful)
+    📜 GSON para procesar datos JSON.
 
 Contribuciones
 
 ¡Contribuciones son bienvenidas! Por favor, sigue los pasos a continuación:
 
     Haz un fork del repositorio.
-    Crea una nueva rama: git checkout -b feature/nueva-funcionalidad.
-    Realiza tus cambios y haz commit: git commit -m 'Agregada nueva funcionalidad'.
-    Sube los cambios: git push origin feature/nueva-funcionalidad.
+    Crea una nueva rama:
+
+git checkout -b feature/nueva-funcionalidad
+
+Realiza tus cambios y haz commit:
+
+git commit -m 'Agregada nueva funcionalidad'
+
+Sube los cambios:
+
+    git push origin feature/nueva-funcionalidad
+
     Crea un pull request.
 
 Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 📧 tu_email@gmail.com
 💼 LinkedIn
 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
+📜 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
