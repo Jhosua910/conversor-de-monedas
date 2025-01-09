@@ -21,7 +21,7 @@ Este proyecto utiliza una API para obtener tasas de cambio en tiempo real, garan
 
 ## **Capturas de Pantalla**  
 <!-- Agrega aquí una imagen de la interfaz o un GIF mostrando la funcionalidad. -->
-![Ejemplo de uso](ruta/a/tu/imagen.png)
+![Ejemplo de uso](conversor-de-monedas/assets/screenshot1.png)
 
 ---
 
