@@ -50,7 +50,6 @@ Ingresa la cantidad y ¡obtén el resultado al instante!
 Tecnologías Usadas
 
 🖥️ Java 17
-🔧 Spring Boot
 🌐 API de tasas de cambio (RESTful)
 📜 GSON para procesar datos JSON.
 
