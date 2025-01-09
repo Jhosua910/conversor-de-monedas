@@ -28,7 +28,7 @@ Este proyecto utiliza una API para obtener tasas de cambio en tiempo real, garan
 ## **Instalación y Uso**
 
 ### **1. Requisitos Previos**
-- ☕ **Java 8 o superior instalado.**  
+- ☕ **Java 17 o superior instalado.**  
 - 🛠️ **Maven para la gestión de dependencias.**
 
 ### **2. Clonar el Repositorio**
@@ -43,29 +43,29 @@ Este proyecto utiliza una API para obtener tasas de cambio en tiempo real, garan
 
 ### **4. Uso**
 
-    Inicia la aplicación.
-    Selecciona las monedas que deseas convertir.
-    Ingresa la cantidad y ¡obtén el resultado al instante!
+Inicia la aplicación.
+Selecciona las monedas que deseas convertir.
+Ingresa la cantidad y ¡obtén el resultado al instante!
 
 Tecnologías Usadas
 
-    🖥️ Java 11
-    🔧 Spring Boot
-    🌐 API de tasas de cambio (RESTful)
-    📜 GSON para procesar datos JSON.
+🖥️ Java 17
+🔧 Spring Boot
+🌐 API de tasas de cambio (RESTful)
+📜 GSON para procesar datos JSON.
 
-Contribuciones
+## **Contribuciones**
 
 ¡Contribuciones son bienvenidas! Por favor, sigue los pasos a continuación:
 
-    Haz un fork del repositorio.
-    Crea una nueva rama:
+ Haz un fork del repositorio.
+Crea una nueva rama:
 
-git checkout -b feature/nueva-funcionalidad
+    git checkout -b feature/nueva-funcionalidad
 
 Realiza tus cambios y haz commit:
 
-git commit -m 'Agregada nueva funcionalidad'
+    git commit -m 'Agregada nueva funcionalidad'
 
 Sube los cambios:
 
@@ -73,10 +73,11 @@ Sube los cambios:
 
     Crea un pull request.
 
-Contacto
+## **Contacto**
 
-📧 tu_email@gmail.com
-💼 LinkedIn
-Licencia
+📧 Jhosuaea910@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/jhosua910/)
+
+## **Licencia**
 
 📜 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
