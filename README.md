@@ -36,12 +36,12 @@ Este proyecto utiliza una API para obtener tasas de cambio en tiempo real, garan
 git clone https://github.com/tu_usuario/currency-converter.git
 cd currency-converter
 
-3. Construir y Ejecutar el Proyecto
+### **3. Construir y Ejecutar el Proyecto**
 
 ./mvnw clean install
 ./mvnw spring-boot:run
 
-4. Uso
+### **4. Uso**
 
     Inicia la aplicación.
     Selecciona las monedas que deseas convertir.
