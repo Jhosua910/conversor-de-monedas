@@ -32,14 +32,14 @@ Este proyecto utiliza una API para obtener tasas de cambio en tiempo real, garan
 - 🛠️ **Maven para la gestión de dependencias.**
 
 ### **2. Clonar el Repositorio**
-```bash
-git clone https://github.com/tu_usuario/currency-converter.git
-cd currency-converter
+
+    git clone https://github.com/tu_usuario/currency-converter.git
+    cd currency-converter
 
 ### **3. Construir y Ejecutar el Proyecto**
 
-./mvnw clean install
-./mvnw spring-boot:run
+    ./mvnw clean install
+    ./mvnw spring-boot:run
 
 ### **4. Uso**
 
